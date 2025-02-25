@@ -25,8 +25,6 @@ pip install transformers peft jupyter
 pip install -r requirements.txt
 ```
 
-[Jupyter Notebook 보기](https://nbviewer.jupyter.org/github/totohoon02/lora_example/blob/main/lora.ipynb)
-
 ### PS
 
 ![graph](./images/graph.png)
